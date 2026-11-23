@@ -155,3 +155,7 @@ We saved each page's snippet on 2026-10-13 as `<n>-<site>.html` (+ `.php`/`.js` 
 - Judged by reading code only; no snippet was run against a real endpoint, so "pass" on C1 means "points at something that can send", not "delivered in a test".
 - Vendor-side spam filtering (Formspree, Web3Forms, Formcarry) is the vendors' claim, not checked.
 - Medium and TemplateMonster were read through Chrome's rendered text; Medium's text view loses indentation (attributes unchanged).
+
+## More free form tools
+
+- HTML contact form code, every attribute explained: https://formgong.com/en/html-contact-form-code/
